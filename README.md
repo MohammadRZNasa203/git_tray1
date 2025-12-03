@@ -6,3 +6,4 @@ Close step one.
 I need pull my project!
 I Create new branch
 edit from repository!!
+this is for conflict handling
